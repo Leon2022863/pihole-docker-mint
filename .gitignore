@@ -1,0 +1,11 @@
+# Pi-hole Teleporter / backup archives
+*.tar.gz
+*.zip
+
+# Docker environment / secret files
+.env
+
+# OS-specific junk files
+.DS_Store
+Thumbs.db
+*~
